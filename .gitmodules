@@ -1,0 +1,6 @@
+[submodule "rc-switch"]
+	path = rc-switch
+	url = git@github.com:mhtrinh/rc-switch.git
+[submodule "OpenMQTTGateway"]
+	path = OpenMQTTGateway
+	url = git@github.com:mhtrinh/OpenMQTTGateway.git
